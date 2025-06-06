@@ -7,6 +7,7 @@ This is a responsive frontend clone of the popular fashion e-commerce website **
 
 ![image](https://github.com/user-attachments/assets/3461c435-a976-4291-b6fd-90a7be855c2f)
 
+
 ![image](https://github.com/user-attachments/assets/c4c53a92-1ca5-4a80-934e-b382975e65aa)
 
 
@@ -43,35 +44,47 @@ myntra-clone/
 ├── images/
 ├── README.md
 
-🧠 Learnings
-Practiced UI/UX cloning
 
-Strengthened knowledge of HTML, CSS, and JS (or React)
+---
 
-Gained experience in building responsive designs
+## 🧠 Learnings
 
-🔮 Future Improvements
-Implement product search and filtering
+- Practiced UI/UX cloning
+- Strengthened knowledge of **HTML**, **CSS**, and **JavaScript**
+- Gained experience in building **responsive designs**
 
-Integrate a real backend
+---
 
-Add cart and checkout functionality
+## 🔮 Future Improvements
 
-Add user login & authentication
+- Implement product search and filtering
+- Integrate a real backend for dynamic data
+- Add cart and checkout functionality
+- Add user login & authentication
 
-🤝 Contributing
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
+---
 
-📄 License
-This project is for educational purposes. All rights to original Myntra brand and content belong to their respective owners.
 
-✨ Acknowledgements
-Inspired by Myntra
+## 📄 License
 
-Icons from FontAwesome
+This project is for **educational purposes only**.  
+All rights to original Myntra brand and content belong to their respective owners.
 
-Fonts from Google Fonts
+---
 
-🙋‍♂️ Author
-Deepanshu Negi
+## ✨ Acknowledgements
+
+- Inspired by [Myntra](https://www.myntra.com/)
+- Icons from [FontAwesome](https://fontawesome.com/)
+- Fonts from [Google Fonts](https://fonts.google.com/)
+
+---
+
+## 🙋‍♂️ Author
+
+**Deepanshu Negi**  
+📧 Feel free to reach out for collaboration or feedback!  
+🔗 [LinkedIn](https://www.linkedin.com/in/deepanshu-negi-687a70251/) 
+
+---
 
